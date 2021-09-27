@@ -31,6 +31,7 @@ namespace Lab1
             {
                 Console.WriteLine(ListEvents[i].description);
                 Console.WriteLine(ListEvents[i].name);
+               
             }
         }
     }

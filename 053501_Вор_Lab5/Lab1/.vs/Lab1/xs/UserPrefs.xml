@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FED54CCD-5C08-49F2-9148-2B0E5FC9B310}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1/Program.cs">
+    <Files>
+      <File FileName="Lab1/Bank.cs" Line="80" Column="47" />
+      <File FileName="Lab1/Entities/Person.cs" />
+      <File FileName="Lab1/Entities/price.cs" />
+      <File FileName="Lab1/Program.cs" Line="55" Column="15" />
+      <File FileName="Lab1/Colllections/MyCustomCollection&lt;T&gt;.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1" expanded="True">
+            <Node name="Lab1" expanded="True">
+              <Node name="Colllections" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
