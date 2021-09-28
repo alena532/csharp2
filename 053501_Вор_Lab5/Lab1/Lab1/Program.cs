@@ -6,12 +6,6 @@ namespace Lab1
     class Program
     {
         
-        public static (int sum,int val) A()
-        {
-            int el = 6;
-            
-            return (el1:6, 5);
-        }
         static void Main(string[] args)
         {
 
@@ -41,21 +35,13 @@ namespace Lab1
 
             database.Add<Person>(new Person("Rostislav"));
 
-            //del.EvInf();
-            //database.RegistrationTarif(pers4, tarif1, 500);
-            /* Console.WriteLine(database.ProcentValue());
-             Console.WriteLine(database.DepositCount());
-             Console.WriteLine(database.ClientName());
-             Console.WriteLine(database.AboveSum(900));
-             database.SumList();
-            */
-            //(string name, int sum) a = ("al", 6);
-            var a = (name:"al",count: 7);
-
-            a.
-
-            var t = A();
-            Console.WriteLine(t.sum);
+            Console.WriteLine(database.ProcentValue());
+            Console.WriteLine(database.DepositCount());
+            Console.WriteLine(database.ClientName());
+            Console.WriteLine(database.AboveSum(900));
+            database.SumList();
+            
+            
              
 
 
