@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alenavorobej/Documents/c#/4/csharp2/053501_Вор_Lab5/Lab1/Lab1/Lab1.csproj",
+      "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab5/Lab1/Lab1/Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "/Users/alenavorobej/Documents/c#/4/csharp2/053501_Вор_Lab5/Lab1/Lab1/Lab1.csproj",
+      "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab5/Lab1/Lab1/Lab1.csproj",
       "packagesPath": "/Users/alenavorobej/.nuget/packages/",
-      "outputPath": "/Users/alenavorobej/Documents/c#/4/csharp2/053501_Вор_Lab5/Lab1/Lab1/obj/",
+      "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab5/Lab1/Lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alenavorobej/.config/NuGet/NuGet.Config"

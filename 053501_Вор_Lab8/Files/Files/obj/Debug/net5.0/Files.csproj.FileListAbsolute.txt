@@ -1,0 +1,15 @@
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/Files.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/Files.runtimeconfig.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/Files.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/Files.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/ref/Files.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/bin/Debug/net5.0/Files.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.AssemblyInfo.cs
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/ref/Files.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Воро_Lab8/Files/Files/obj/Debug/net5.0/Files.genruntimeconfig.cache

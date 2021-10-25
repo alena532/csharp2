@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9826678B-A8E7-46F9-9674-EF5885A0BF5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Files PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Files/Files/IFileService.cs">
+    <Files>
+      <File FileName="Files/Program.cs" Line="29" Column="14" />
+      <File FileName="Files/IFileService.cs" Line="10" Column="68" />
+      <File FileName="Files/Employee/Employee.cs" Line="20" Column="30" />
+      <File FileName="Files/FileService.cs" Line="55" Column="14" />
+      <File FileName="Files/Employee/EmployeeComparer&lt;Employee&gt;.cs" Line="13" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Files" expanded="True">
+            <Node name="Files" expanded="True">
+              <Node name="Employee" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

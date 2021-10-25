@@ -72,7 +72,8 @@ namespace Lab1
 
         public void SumList()
         {
-            var sum = people.Where(t => t.Dep != null).GroupBy(t => t.Name);
+            var sum = people.Where(t => t.Dep != null)
+                .GroupBy(t => t.Name);
             foreach(var group in sum)
             {
                 foreach(var el  in group)
@@ -93,7 +94,10 @@ namespace Lab1
 
         public string ClientName()
         {
-            string name = people.Where(p => p.Sum != 0).OrderBy(t => t.Sum).Select(p => p.Name).Last();
+            string name = people.Where(p => p.Sum != 0)
+                .OrderBy(t => t.Sum)
+                .Select(p => p.Name)
+                .Last();
             return name;
         }
 
