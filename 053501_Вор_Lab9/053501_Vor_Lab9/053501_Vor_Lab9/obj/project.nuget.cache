@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3R3J9xDBRkRKt5soFBWmjfrfIdHIE7RtYxaLu30Vb1yOQUsTDxOMWHhKH1ZRXdKArNoyGA6RC8lWyB+NNt0Jg==",
+  "success": true,
+  "projectFilePath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.csproj",
+  "expectedPackageFiles": [
+    "/Users/alenavorobej/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

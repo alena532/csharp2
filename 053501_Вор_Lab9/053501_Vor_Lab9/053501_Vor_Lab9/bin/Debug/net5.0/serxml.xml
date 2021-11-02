@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfAirport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Airport>
+    <Runways>
+      <RunWay>
+        <Length>1000</Length>
+      </RunWay>
+      <RunWay>
+        <Length>2000</Length>
+      </RunWay>
+      <RunWay>
+        <Length>3000</Length>
+      </RunWay>
+    </Runways>
+    <Name>belavia</Name>
+  </Airport>
+  <Airport>
+    <Runways>
+      <RunWay>
+        <Length>1000</Length>
+      </RunWay>
+      <RunWay>
+        <Length>2000</Length>
+      </RunWay>
+      <RunWay>
+        <Length>3000</Length>
+      </RunWay>
+    </Runways>
+    <Name>USAvia</Name>
+  </Airport>
+</ArrayOfAirport>

@@ -1,0 +1,12 @@
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.AssemblyInfo.cs
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/bin/Debug/net5.0/053501_Vor_Lab9.Domain.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/bin/Debug/net5.0/053501_Vor_Lab9.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/bin/Debug/net5.0/ref/053501_Vor_Lab9.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/bin/Debug/net5.0/053501_Vor_Lab9.Domain.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/ref/053501_Vor_Lab9.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/053501_Vor_Lab9.Domain/obj/Debug/net5.0/053501_Vor_Lab9.Domain.pdb

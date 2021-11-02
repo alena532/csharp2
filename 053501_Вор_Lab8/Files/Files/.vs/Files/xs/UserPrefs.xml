@@ -4,8 +4,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Files" expanded="True" selected="True">
-            <Node name="Files" expanded="True" />
+          <Node name="Files" expanded="True">
+            <Node name="Files" expanded="True">
+              <Node name="Employee" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

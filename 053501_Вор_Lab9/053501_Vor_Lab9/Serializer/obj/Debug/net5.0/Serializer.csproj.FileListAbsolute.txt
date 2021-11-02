@@ -1,0 +1,15 @@
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/Serializer.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/Serializer.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/ref/Serializer.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/Serializer.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/053501_Vor_Lab9.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/bin/Debug/net5.0/053501_Vor_Lab9.Domain.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.AssemblyInfo.cs
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.csproj.CopyComplete
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/ref/Serializer.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/obj/Debug/net5.0/Serializer.pdb

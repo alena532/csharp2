@@ -9,7 +9,7 @@ namespace Files
     {
         public IEnumerable<Employee> ReadFile(string fileName)
         {
-            List <Employee> temp= new List<Employee>();
+            //List <Employee> temp= new List<Employee>();
             try
             {
                 if (!File.Exists(fileName))
@@ -26,10 +26,10 @@ namespace Files
                     string name = reader.ReadString();
                     int age = Convert.ToInt32(reader.ReadString());
                     bool atWork  = Convert.ToBoolean(reader.ReadString());
-                    temp.Add(new Employee(name, age, atWork));
+                    yield return new Employee(name, age, atWork);
                 }
             }
-            return temp;
+            //return temp;
         }
 
         public void SaveData(IEnumerable<Employee> data, string fileName)
@@ -39,7 +39,7 @@ namespace Files
             using(File.Create(fileName)) { } ; 
             try
             {
-                using (BinaryWriter writer = new BinaryWriter(File.OpenWrite(fileName)))
+                using (BinaryWriter writer = new BinaryWriter(File.Open(fileName, FileMode.Create)))
                 {
                     foreach (var s in data)
                     {

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5Qf7n2215fLZTx3Cl48SaW3UqKeBTV0/wGpYJNY4SScc/HaB2urDJzjivOYI5YtphXPn6vJY5oMV2b0Ba5ofQ==",
+  "success": true,
+  "projectFilePath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab9/053501_Vor_Lab9/Serializer/Serializer.csproj",
+  "expectedPackageFiles": [
+    "/Users/alenavorobej/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

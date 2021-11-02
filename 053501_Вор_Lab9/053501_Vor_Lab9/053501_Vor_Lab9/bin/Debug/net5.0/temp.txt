@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<airports>
+  <airport name="belavia">
+    <runway length="1000" />
+    <runway length="2000" />
+    <runway length="3000" />
+  </airport>
+  <airport name="USAvia">
+    <runway length="1000" />
+    <runway length="2000" />
+    <runway length="3000" />
+  </airport>
+</airports>

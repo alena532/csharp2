@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{9826678B-A8E7-46F9-9674-EF5885A0BF5D}|Default">
   <MonoDevelop.Ide.ItemProperties.Files PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Files/Files/IFileService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Files/Files/FileService.cs">
     <Files>
       <File FileName="Files/Program.cs" Line="29" Column="14" />
-      <File FileName="Files/IFileService.cs" Line="10" Column="68" />
       <File FileName="Files/Employee/Employee.cs" Line="20" Column="30" />
-      <File FileName="Files/FileService.cs" Line="55" Column="14" />
       <File FileName="Files/Employee/EmployeeComparer&lt;Employee&gt;.cs" Line="13" Column="45" />
+      <File FileName="Files/Files/FileService.cs" Line="42" Column="75" />
+      <File FileName="Files/Files/IFileService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,6 +14,9 @@
           <Node name="Files" expanded="True">
             <Node name="Files" expanded="True">
               <Node name="Employee" expanded="True" />
+              <Node name="Files" expanded="True">
+                <Node name="FileService.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
