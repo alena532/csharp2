@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/053501_Вор_Lab10.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/053501_Вор_Lab10.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/053501_Вор_Lab10.Domain.csproj",
+        "projectName": "053501_Вор_Lab10.Domain",
+        "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/053501_Вор_Lab10.Domain.csproj",
+        "packagesPath": "/Users/alenavorobej/.nuget/packages/",
+        "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alenavorobej/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/053501_Вор_Lab10.csproj": {
+                "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/053501_Вор_Lab10.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/053501_Вор_Lab10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/053501_Вор_Lab10.csproj",
+        "projectName": "053501_Вор_Lab10",
+        "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/053501_Вор_Lab10.csproj",
+        "packagesPath": "/Users/alenavorobej/.nuget/packages/",
+        "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alenavorobej/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

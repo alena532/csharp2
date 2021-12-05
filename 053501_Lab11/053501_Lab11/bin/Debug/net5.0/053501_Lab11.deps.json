@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "053501_Lab11/1.0.0": {
+        "dependencies": {
+          "053501.Lab11.Domain2": "1.0.0",
+          "053501_Lab11_Domain1": "1.0.0"
+        },
+        "runtime": {
+          "053501_Lab11.dll": {}
+        }
+      },
+      "053501.Lab11.Domain2/1.0.0": {
+        "runtime": {
+          "053501.Lab11.Domain2.dll": {}
+        }
+      },
+      "053501_Lab11_Domain1/1.0.0": {
+        "runtime": {
+          "053501_Lab11_Domain1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053501_Lab11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "053501.Lab11.Domain2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "053501_Lab11_Domain1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

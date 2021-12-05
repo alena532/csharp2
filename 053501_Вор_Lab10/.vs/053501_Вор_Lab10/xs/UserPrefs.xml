@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C1A486FC-D71B-459D-AD65-AD80333389D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="053501_Вор_Lab10.Domain/Class1.cs">
+    <Files>
+      <File FileName="053501_Вор_Lab10/Program.cs" Line="41" Column="1" />
+      <File FileName="053501_Вор_Lab10/Employee.cs" Line="1" Column="1" />
+      <File FileName="053501_Вор_Lab10/IFileService.cs" Line="4" Column="28" />
+      <File FileName="053501_Вор_Lab10.Domain/Class1.cs" Line="31" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="053501_Вор_Lab10" expanded="True">
+            <Node name="053501_Вор_Lab10" expanded="True" />
+            <Node name="053501_Вор_Lab10.Domain" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.053501__Вор__Lab10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -3,10 +3,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Files/Files/FileService.cs">
     <Files>
       <File FileName="Files/Program.cs" Line="29" Column="14" />
-      <File FileName="Files/Employee/Employee.cs" Line="20" Column="30" />
-      <File FileName="Files/Employee/EmployeeComparer&lt;Employee&gt;.cs" Line="13" Column="45" />
-      <File FileName="Files/Files/FileService.cs" Line="42" Column="75" />
-      <File FileName="Files/Files/IFileService.cs" Line="1" Column="1" />
+      <File FileName="Files/Employee/Employee.cs" />
+      <File FileName="Files/Employee/EmployeeComparer&lt;Employee&gt;.cs" />
+      <File FileName="Files/Files/FileService.cs" Line="31" Column="14" />
+      <File FileName="Files/Files/IFileService.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

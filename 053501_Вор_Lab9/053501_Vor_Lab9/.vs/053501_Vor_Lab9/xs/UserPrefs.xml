@@ -1,26 +1,23 @@
 ﻿<Properties StartupConfiguration="{6D5D5C8D-B6CB-4F51-8101-C82C6873DDD6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="053501_Vor_Lab9/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serializer/Class1.cs">
     <Files>
-      <File FileName="053501_Vor_Lab9/Program.cs" Line="58" Column="15" />
-      <File FileName="053501_Vor_Lab9.Domain/Class1.cs" Line="22" Column="42" />
-      <File FileName="053501_Vor_Lab9.Domain/RunWay.cs" Line="12" Column="1" />
-      <File FileName="053501_Vor_Lab9.Domain/ISerializer.cs" Line="6" Column="9" />
-      <File FileName="Serializer/Class1.cs" Line="44" Column="32" />
+      <File FileName="053501_Vor_Lab9/Program.cs" Line="30" Column="64" />
+      <File FileName="053501_Vor_Lab9.Domain/Class1.cs" />
+      <File FileName="053501_Vor_Lab9.Domain/RunWay.cs" />
+      <File FileName="053501_Vor_Lab9.Domain/ISerializer.cs" />
+      <File FileName="Serializer/Class1.cs" Line="86" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="053501_Vor_Lab9" expanded="True">
-            <Node name="053501_Vor_Lab9" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="053501_Vor_Lab9" expanded="True" />
             <Node name="053501_Vor_Lab9.Domain" expanded="True" />
-            <Node name="Serializer" expanded="True" />
+            <Node name="Serializer" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

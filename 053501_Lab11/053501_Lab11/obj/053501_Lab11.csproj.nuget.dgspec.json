@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11/053501_Lab11.csproj": {}
+  },
+  "projects": {
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/053501.Lab11.Domain2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/053501.Lab11.Domain2.csproj",
+        "projectName": "053501.Lab11.Domain2",
+        "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/053501.Lab11.Domain2.csproj",
+        "packagesPath": "/Users/alenavorobej/.nuget/packages/",
+        "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alenavorobej/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11/053501_Lab11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11/053501_Lab11.csproj",
+        "projectName": "053501_Lab11",
+        "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11/053501_Lab11.csproj",
+        "packagesPath": "/Users/alenavorobej/.nuget/packages/",
+        "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alenavorobej/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/053501.Lab11.Domain2.csproj": {
+                "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/053501.Lab11.Domain2.csproj"
+              },
+              "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/053501_Lab11_Domain1.csproj": {
+                "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/053501_Lab11_Domain1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/053501_Lab11_Domain1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/053501_Lab11_Domain1.csproj",
+        "projectName": "053501_Lab11_Domain1",
+        "projectPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/053501_Lab11_Domain1.csproj",
+        "packagesPath": "/Users/alenavorobej/.nuget/packages/",
+        "outputPath": "/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alenavorobej/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

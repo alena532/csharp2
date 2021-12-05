@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_053501.Lab11.Domain2</RootNamespace>
+  </PropertyGroup>
+
+</Project>

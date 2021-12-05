@@ -5,7 +5,6 @@ using System.Linq;
 //using System.Text.Json;
 using System.Xml.Linq;
 using System.Xml.Serialization;
-
 using System.Collections.Generic;
 using _053501_Vor_Lab9.Domain;
 using Newtonsoft.Json;
@@ -31,7 +30,6 @@ namespace Serializer
                 }
 
                 yield return airport;
-            
             }
         }
 
@@ -39,6 +37,10 @@ namespace Serializer
         {
             using (StreamReader file = File.OpenText(fileName))
             {
+
+                //return JsonConvert.DeserializeObject<List<Airport>>(File.ReadAllText(fileName));
+
+
                 JsonSerializer serializer = new JsonSerializer();
                 List<Airport> airports = (List<Airport>)serializer.Deserialize(file, typeof(List<Airport>));
                 return airports;
