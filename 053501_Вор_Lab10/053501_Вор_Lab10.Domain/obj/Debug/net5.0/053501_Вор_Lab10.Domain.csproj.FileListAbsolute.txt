@@ -14,3 +14,10 @@
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/obj/Debug/net5.0/053501_Вор_Lab10.Domain.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/obj/Debug/net5.0/ref/053501_Вор_Lab10.Domain.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10.Domain/obj/Debug/net5.0/053501_Вор_Lab10.Domain.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.runtimeconfig.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.runtimeconfig.dev.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.Domain.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/ref/053501_Вор_Lab10.Domain.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/net5.0/053501_Вор_Lab10.Domain.pdb

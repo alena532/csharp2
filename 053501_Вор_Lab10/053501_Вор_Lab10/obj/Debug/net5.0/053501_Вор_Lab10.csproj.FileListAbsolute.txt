@@ -4,14 +4,14 @@
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/053501_Вор_Lab10.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/ref/053501_Вор_Lab10.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/053501_Вор_Lab10.pdb
-/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.GeneratedMSBuildEditorConfig.editorconfig
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.AssemblyInfoInputs.cache
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.AssemblyInfo.cs
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.csproj.CopyComplete
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/ref/053501_Вор_Lab10.dll
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.pdb
 /Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.genruntimeconfig.cache
-/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/bin/Debug/net5.0/Newtonsoft.Json.dll
-/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.csproj.CopyComplete
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Вор_Lab10/053501_Вор_Lab10/obj/Debug/net5.0/053501_Вор_Lab10.csproj.AssemblyReference.cache
