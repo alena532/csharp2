@@ -10,3 +10,15 @@
 /Users/alenavorobej/Desktop/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.dll
 /Users/alenavorobej/Desktop/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/ref/053501_Lab11_Domain1.dll
 /Users/alenavorobej/Desktop/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/bin/Debug/net5.0/053501_Lab11_Domain1.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/bin/Debug/net5.0/053501_Lab11_Domain1.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/bin/Debug/net5.0/ref/053501_Lab11_Domain1.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/bin/Debug/net5.0/053501_Lab11_Domain1.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.AssemblyInfo.cs
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/ref/053501_Lab11_Domain1.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501_Lab11_Domain1/obj/Debug/net5.0/053501_Lab11_Domain1.pdb

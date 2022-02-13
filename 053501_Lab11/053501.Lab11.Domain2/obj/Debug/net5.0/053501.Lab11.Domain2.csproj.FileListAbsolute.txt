@@ -10,3 +10,15 @@
 /Users/alenavorobej/Desktop/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.dll
 /Users/alenavorobej/Desktop/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/ref/053501.Lab11.Domain2.dll
 /Users/alenavorobej/Desktop/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/bin/Debug/net5.0/053501.Lab11.Domain2.deps.json
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/bin/Debug/net5.0/053501.Lab11.Domain2.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/bin/Debug/net5.0/ref/053501.Lab11.Domain2.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/bin/Debug/net5.0/053501.Lab11.Domain2.pdb
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.csproj.AssemblyReference.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.AssemblyInfoInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.AssemblyInfo.cs
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.csproj.CoreCompileInputs.cache
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/ref/053501.Lab11.Domain2.dll
+/Users/alenavorobej/Documents/csharp2/csharp2/053501_Lab11/053501.Lab11.Domain2/obj/Debug/net5.0/053501.Lab11.Domain2.pdb
